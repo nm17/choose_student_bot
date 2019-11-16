@@ -228,3 +228,4 @@ venv.bak/
 pip-selfcheck.json
 
 .env
+botdb.json
