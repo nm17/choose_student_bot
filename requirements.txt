@@ -1,0 +1,6 @@
+loguru
+aiogram
+python-dotenv
+tinydb
+aiohttp_socks
+parse
